@@ -1,0 +1,7 @@
+export class AppComponent{
+    title = 'TwoWayDataBinding';
+    firstValue: number = 60
+    secondValue: number = 50
+
+    TitleValue():
+}
